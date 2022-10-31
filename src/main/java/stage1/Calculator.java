@@ -1,5 +1,7 @@
-import domain.ArithmeticSign;
-import domain.Number;
+package stage1;
+
+import stage1.domain.ArithmeticSign;
+import stage1.domain.Number;
 
 import java.util.ArrayList;
 import java.util.List;
